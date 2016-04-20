@@ -18,6 +18,7 @@
 + [Node.js代码风格指南](https://github.com/dead-horse/node-style-guide)
 + [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 + [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
++ [nodejs免费在线学习内容](http://www.hubwiz.com/course/?type=nodes)
 
 ##业界新闻
 
